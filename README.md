@@ -7,7 +7,7 @@
 
 ## 0. Introduction
 
-[Kahoot](https://kahoot.com/) is a popular game that . We (me and my teammate, Guanyu, think it's a good idea to )
+[Kahoot](https://kahoot.com/) is a popular quiz platform, we developed a Kahoot like game in this project.
 
 ## 1. Background & Motivation
 
