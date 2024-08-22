@@ -1,0 +1,14 @@
+.Header {
+  background-color: white;
+}
+.Content {
+  /* margin: 24px 16px;
+  padding: 24px; */
+  /* min-height: 700px;
+  max-height: 700px;
+  width: 300px; */
+  background-color: white;
+}
+.fontSizeAdjust {
+  font-size: 0.8em;
+}

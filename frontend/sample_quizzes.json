@@ -1,0 +1,31 @@
+
+{
+  "1": {
+    "type": "single choice",
+    "question": "1+1=",
+    "options": {
+      "option a": "1",
+      "option b": "2",
+      "option c": "3",
+      "option d": "4"
+    },
+    "answer": ["option b"],
+    "time_limit": "10",
+    "points": "1",
+    "url": "1"
+  },
+  "2": {
+    "type": "single choice",
+    "question": "1+1<",
+    "options": {
+      "option a": "1",
+      "option b": "2",
+      "option c": "3",
+      "option d": "4"
+    },
+    "answer": ["option c", "option d"],
+    "time_limit": "10",
+    "points": "2",
+    "url": "1"
+  }
+}
